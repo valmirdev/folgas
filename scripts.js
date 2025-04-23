@@ -14,7 +14,8 @@ const sabado_daniel = "FOLGA";
 
 if(diaAtual === 23){
     elias.innerText = `Elias está de ${quarta_elias} !`
-    color_elias.style.backgroundColor = "yellow" 
+    color_elias.style.backgroundColor = "yellow"
+    alert("Daniel está de folga!");
 }
 
 
