@@ -15,37 +15,42 @@ const sabado_daniel = "FOLGA";
 if(diaAtual === 23){
     elias.innerText = `Elias está de ${quarta_elias} !`
     color_elias.style.backgroundColor = "yellow"
-    alert("Daniel está de folga!");
+    alert("Elias está de folga!");
 }
 
 
 if(diaAtual === 22){
     valmir.innerText = `Valmir está de ${terca_valmir} !`
     color_valmir.style.backgroundColor = "yellow"
+    alert("Valmir está de folga!");
 }
 
 
 if(diaAtual === 21){
     daniel.innerText = `Daniel está de ${segunda_daniel} !`
     color_daniel.style.backgroundColor = "yellow" 
+    alert("Daniel está de folga!");
 }
 
 
 if(diaAtual === 24){
     carlinhos.innerText = `Carlinhos está de ${quinta_carlinhos} !`
     color_carlinhos.style.backgroundColor = "yellow"
+    alert("Carlinhos está de folga!");
 }
 
 
 if(diaAtual === 25){
     valmir.innerText = `Valmir está de ${sexta_valmir} !`
     color_valmir.style.backgroundColor = "yellow"
+    alert("Valmir está de folga!");
 }
 
 
 if(diaAtual === 26){
     daniel.innerText = `Daniel está de${sabado_daniel} !`
     color_daniel.style.backgroundColor = "yellow"
+    alert("Daniel está de folga!");
 }
 
 
