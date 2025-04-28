@@ -8,7 +8,7 @@ if(diaAtual == 21){
     color_daniel.style.backgroundColor = "yellow" 
 }
 
-if(diaAtual == 28){
+if(diaAtual == 22){
     valmir.innerText = `Valmir está de folga !`
     color_valmir.style.backgroundColor = "yellow"
 }
@@ -34,6 +34,9 @@ if(diaAtual == 25){
 if(diaAtual == 26){
     daniel.innerText = `Daniel está de folga !`
     color_daniel.style.backgroundColor = "yellow"
+}else{
+    combinar.innerText = `A combinar...`
+    combinar.style.color = "red"
 }
 
 
