@@ -10,7 +10,7 @@ body{
 }
 
 table{
-    width: 345px;
+    width: 385px;
     border-collapse: collapse;
     margin-right: auto;
     margin-left: auto;
@@ -38,7 +38,7 @@ img{
     padding-top: 30px;
 }
 
-.container {
-    border: 1px solid black;
-}
 
+.container {
+    border: 2px solid black;
+}
