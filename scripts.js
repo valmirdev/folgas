@@ -15,7 +15,7 @@ if(diaAtual == 30){
 }if(diaAtual == 28 && 1){
     carlinhos.innerText = `Carlinhos está de folga !`
     color_carlinhos.style.backgroundColor = "yellow"
-}else if{
+}else{
     combinar.innerText = `A combinar...`
     combinar.style.color = "red"
 }
