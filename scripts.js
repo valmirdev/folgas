@@ -12,7 +12,7 @@ if (diaAtual == 30){//DANIEL//
 }else if (diaAtual == 28 && 3){//ELIAS//
     elias.innerText = "Elias está de folga !";
     color_elias.style.backgroundColor = "yellow";
-}else if (diaAtual == 1 || 2){//CARLINHOS//
+}else if (diaAtual == 1 && 2){//CARLINHOS//
     carlinhos.innerText = `Carlinhos está de folga !`;
     color_carlinhos.style.backgroundColor = "yellow";
 } else {//A COMBINAR//
