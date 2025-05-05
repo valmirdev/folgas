@@ -4,16 +4,15 @@ const diaAtual = data.getDate();
 
 
 
-
-if (diaAtual == 28){//ELIAS//
-    elias.innerText = "Elias está de folga !";
-    color_elias.style.backgroundColor = "yellow";
-}else if (diaAtual == 29){//VALMIR//
+if (diaAtual == 5){//VALMIR//
     valmir.innerText = `Valmir está de folga !`;
     color_valmir.style.backgroundColor = "yellow";
-}else if (diaAtual == 30){//DANIEL//
+}else if (diaAtual == 6){//DANIEL//
     daniel.innerText = `Daniel está de folga !`;
     color_daniel.style.backgroundColor = "yellow";
+}else if (diaAtual == 28){//ELIAS//
+    elias.innerText = "Elias está de folga !";
+    color_elias.style.backgroundColor = "yellow";
 }else if (diaAtual == 1){//CARLINHOS//
     carlinhos.innerText = `Carlinhos está de folga !`;
     color_carlinhos.style.backgroundColor = "yellow";
