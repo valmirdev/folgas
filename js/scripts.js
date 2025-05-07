@@ -20,7 +20,7 @@ if (diaAtual == 5){//VALMIR//
     carlinhos.innerText = `Carlinhos está de folga !`;
     color_carlinhos.style.backgroundColor = "yellow";
 }else if (diaAtual == 3){//DANIEL//
-    Daniel.innerText = "DANIEL está de folga !";
+    daniel.innerText = "DANIEL está de folga !";
     color_elias.style.backgroundColor = "yellow";
 }else {//A COMBINAR//
     combinar.innerText = `A combinar...`;
