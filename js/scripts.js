@@ -10,8 +10,8 @@ if (diaAtual == 5){//VALMIR//
 }else if (diaAtual == 6){//ELIAS//
     elias.innerText = `ELIAS está de folga !`;
     color_daniel.style.backgroundColor = "yellow";
-}else if (diaAtual == 28){//ELIAS//
-    elias.innerText = "Elias está de folga !";
+}else if (diaAtual == 7){//CARLINHOS//
+    carlinhos.innerText = "Carlinhos está de folga !";
     color_elias.style.backgroundColor = "yellow";
 }else if (diaAtual == 1){//CARLINHOS//
     carlinhos.innerText = `Carlinhos está de folga !`;
