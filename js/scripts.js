@@ -12,7 +12,7 @@ if (diaAtual == 5){//VALMIR//
     color_daniel.style.backgroundColor = "yellow";
 }else if (diaAtual == 7){//CARLINHOS//
     carlinhos.innerText = "Carlinhos está de folga !";
-    color_elias.style.backgroundColor = "yellow";
+    color_carlinhos.style.backgroundColor = "yellow";
 }else if (diaAtual == 1){//CARLINHOS//
     carlinhos.innerText = `Carlinhos está de folga !`;
     color_carlinhos.style.backgroundColor = "yellow";
