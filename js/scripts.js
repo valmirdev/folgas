@@ -15,7 +15,7 @@ if (diaAtual == 5){//VALMIR//
     color_carlinhos.style.backgroundColor = "yellow";
 }else if (diaAtual == 8){//VALMIR//
     valmir.innerText = `VALMIR está de folga !`;
-    color_calmir.style.backgroundColor = "yellow";
+    color_valmir.style.backgroundColor = "yellow";
 }else if (diaAtual == 2){//CARLINHOS//
     carlinhos.innerText = `Carlinhos está de folga !`;
     color_carlinhos.style.backgroundColor = "yellow";
